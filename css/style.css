@@ -1,0 +1,48 @@
+/*
+Theme Name: Magic Colors
+Author: Surreily
+Author URI: http://www.surreily.com
+Description: A theme where the user can change the color of the site.
+*/
+
+/* ------------------------------------------------------------------------- */
+/* General                                                                   */
+/* ------------------------------------------------------------------------- */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    font-family: exoextralight, 'Comic Sans MS', Verdana;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Fonts (converted by FontSquirrel)                                         */
+/* ------------------------------------------------------------------------- */
+@font-face {
+    font-family: 'exoextralight';
+    src: url('fonts/exo-extralight-webfont.eot');
+    src: url('fonts/exo-extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/exo-extralight-webfont.woff2') format('woff2'),
+         url('fonts/exo-extralight-webfont.woff') format('woff'),
+         url('fonts/exo-extralight-webfont.ttf') format('truetype'),
+         url('fonts/exo-extralight-webfont.svg#exoextralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ------------------------------------------------------------------------- */
+/* Site header                                                               */
+/* ------------------------------------------------------------------------- */
+
+.header {
+	height: 8em;
+	width: 100%;
+}
+
+.header .header-text {
+	font-size: 3em;
+	font-family: ;
+}
