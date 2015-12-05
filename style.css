@@ -16,6 +16,12 @@ Description: A theme where the user can change the color of the site.
 
 body {
 	font-family: exoextralight, 'Times New Roman';
+	background-color: #222222;
+}
+
+.content {
+  width: 100%;
+  background-color: #dddddd;
 }
 
 
@@ -43,7 +49,7 @@ body {
 /* ------------------------------------------------------------------------- */
 
 .banner {
-	background-color: #666;
+	background-color: #222;
 	height: 8em;
 	width: 100%;
 }
@@ -55,95 +61,195 @@ body {
 
 
 /* ------------------------------------------------------------------------- */
-/* Navigation bar                                                            */
+/* Bootstrap navbar                                                          */
 /* ------------------------------------------------------------------------- */
 
-.nav {
-	border-top: 2px solid;
-	border-bottom: 2px solid;
-	float: left;
-	width: 100%;
-	background-color: #333333;
+/* Fix Bootstrap default borders */
+
+/* navbar */
+.navbar-default {
+    background-image: none;
+    background-color: #F8F8F8;
+    border-radius: 0px;
+    border: 0px;
+    margin-bottom: 0px;
+}
+/* title */
+.navbar-default .navbar-brand {
+    color: #777;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #5E5E5E;
+}
+/* link */
+.navbar-default .navbar-nav > li > a {
+    color: #777;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #555;
+    background-color: #E7E7E7;
+}
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #555;
+    background-color: #D5D5D5;
+}
+/* caret */
+.navbar-default .navbar-nav > .dropdown > a .caret {
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
+.navbar-default .navbar-nav > .open > a .caret, 
+.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
+/* mobile version */
+.navbar-default .navbar-toggle {
+    border-color: #DDD;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #DDD;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #CCC;
+}
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #777;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #333;
+    }
 }
 
-.nav ul {
-	float: right;
-	list-style: none;
-	
+/* ------------------------------------------------------------------------- */
+/* Bootstrap modal                                                           */
+/* ------------------------------------------------------------------------- */
+
+.modal-custom {
+	border-radius: 0px;
+	border: 4px solid;
 }
 
-.nav li {
-	float: left;
+/* ------------------------------------------------------------------------- */
+/* Custom range slider                                                       */
+/* ------------------------------------------------------------------------- */
+
+
+
+/* ------------------------------------------------------------------------- */
+/* Footer                                                                    */
+/* ------------------------------------------------------------------------- */
+
+.footer-text p {
+    margin-top: 1em;
+    color: #dddddd;
 }
-
-.nav li a {
-	font-style: none;
-	display: inline-block;
-	float: left;
-	padding: 5px;
-	text-decoration: none;
-}
-
-.nav li > a:hover {
-	color: #ffffff;
-}
-
-
 
 /* ------------------------------------------------------------------------- */
 /* Magic colors                                                              */
 /* ------------------------------------------------------------------------- */
 
-.m1-text {
-	color: lime;
+/* All devices */
+
+.m-text {
+	color: #00cc00;
 }
 
-.m1-back {
-	background-color: lime;
+.m-back {
+	background-color: #00cc00;
 }
 
-.m1-border {
-	border-color: lime;
+.m-border {
+	border-color: #00cc00;
 }
 
-.m1h-text:hover,
-.m1h-text:focus {
-	color: lime;
+.mh-text:hover,
+.mh-text:focus {
+	color: #00cc00;
 }
 
-.m1h-back:hover,
-.m1h-back:focus {
-	background-color: lime;
+.mh-back:hover,
+.mh-back:focus {
+	background-color: #00cc00;
 }
 
-.m1h-border:hover
-.m1h-border:focus {
-	border-color: lime;
+.mh-border:hover
+.mh-border:focus {
+	border-color: #00cc00;
 }
 
-.m2-text {
-	color: orange;
+/* Desktop only */
+
+.md-text {
+	color: #00cc00;
 }
 
-.m2-back {
-	background-color: orange;
+.md-back {
+	background-color: #00cc00;
 }
 
-.m2-border {
-	border-color: orange;
+.md-border {
+	border-color: #00cc00;
 }
 
-.m2h-text:hover,
-.m2h-text:focus {
-	color: orange;
+.mhdtext:hover,
+.mhd-text:focus {
+	color: #00cc00;
 }
 
-.m2h-back:hover,
-.m2h-back:focus {
-	background-color: orange;
+.mhd-back:hover,
+.mhd-back:focus {
+	background-color: #00cc00;
 }
 
-.m2h-border:hover
-.m2h-border:focus {
-	border-color: orange;
+.mhd-border:hover
+.mhd-border:focus {
+	border-color: #00cc00;
+}
+
+/* Mobile only */
+
+.mm-text {
+	color: #00cc00;
+}
+
+.mm-back {
+	background-color: #00cc00;
+}
+
+.mm-border {
+	border-color: #00cc00;
+}
+
+.mhmtext:hover,
+.mhm-text:focus {
+	color: #00cc00;
+}
+
+.mhm-back:hover,
+.mhm-back:focus {
+	background-color: #00cc00;
+}
+
+.mhm-border:hover
+.mhm-border:focus {
+	border-color: #00cc00;
 }

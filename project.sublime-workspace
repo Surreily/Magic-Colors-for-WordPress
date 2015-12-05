@@ -1,0 +1,734 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vacations",
+				"init_vacations"
+			],
+			[
+				"navbutton_disabled",
+				"navbutton_disabled_background_color_setting"
+			],
+			[
+				"navbutton_background",
+				"navbutton_background_color_setting"
+			],
+			[
+				"navbutton_disabled_",
+				"navbutton_disabled_background_color_setting"
+			],
+			[
+				"navbutton_ba",
+				"navbutton_background_color_setting"
+			],
+			[
+				"portfolio_border",
+				"portfolio_border_hover_color_setting"
+			],
+			[
+				"portfolio_text_background3",
+				"portfolio_text_background3_hover_color_setting"
+			],
+			[
+				"portfolio_text",
+				"portfolio_text_background1_color_setting"
+			],
+			[
+				"comment_form",
+				"comment_form_link_hover_color_setting"
+			],
+			[
+				"footer_background",
+				"footer_background_color_setting"
+			],
+			[
+				"footerL",
+				"footer_link_hover_color_setting"
+			],
+			[
+				"footer_",
+				"footer_text_color_setting"
+			],
+			[
+				"footer",
+				"footer_background_color_setting"
+			],
+			[
+				"other_",
+				"other_background_color_setting"
+			],
+			[
+				"comment",
+				"comment_accent1_color_setting"
+			],
+			[
+				"comment_background",
+				"comment_background_color_setting"
+			],
+			[
+				"navbar_butt",
+				"navbar_button_color_setting"
+			],
+			[
+				"san",
+				"sanitize_hex_color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 1207,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 3091,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inc/magiccolors.php",
+			"settings":
+			{
+				"buffer_size": 5491,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "inc/wp_bootstrap_navwalker.php",
+			"settings":
+			{
+				"buffer_size": 7311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api-savecolor.php",
+			"settings":
+			{
+				"buffer_size": 769,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/mc_dropdowns.js",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 3066,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/slider.css",
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Sean/Documents/Web Dev/ImageFiller/colorspiller.html",
+			"settings":
+			{
+				"buffer_size": 3061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/magiccolormodal.js",
+			"settings":
+			{
+				"buffer_size": 2168,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 5973,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/wp-content/themes/surreilytheme/functions.php",
+		"/C/Users/Sean/Documents/Web Dev/ImageFiller/perception.html",
+		"/C/wamp/www/wp-content/themes/Magic-Colors-for-WordPress/api/save-color.php",
+		"/C/wamp/www/wp-content/themes/Magic-Colors-for-WordPress/inc/walkers.php",
+		"/C/wamp/www/wp-content/themes/Magic-Colors-for-WordPress/js/bootstrap-slider.js",
+		"/C/Users/Sean/Documents/Web Dev/ImageFiller/colorspiller.html",
+		"/C/Users/Sean/Documents/Web Dev/ImageFiller/imagefiller.css",
+		"/C/Users/Sean/Documents/Web Dev/ImageFiller/imagefiller.js",
+		"/C/Users/Sean/Documents/Web Dev/ImageFiller/imagefiller2.js",
+		"/C/Users/Sean/Documents/Web Dev/ImageFiller/index.html",
+		"/C/wamp/www/wp-content/themes/magiccolortheme/codescroller.js",
+		"/C/wamp/www/wp-content/themes/magiccolortheme/codescroller.css",
+		"/C/Users/Sean/Documents/Python/OffshoreCalcDataConversion/Converter.py",
+		"/C/Users/Sean/Documents/Visual Studio 2015/Projects/OffshoreCalCal/OffshoreCalCal/bin/Release/OffshoreCalCal_Backup_23-11-2015",
+		"/C/Users/Sean/Documents/Python/OffshoreCalcDataConversion/Output.xml",
+		"/C/wamp/www/wp-content/themes/magiccolortheme/style.css",
+		"/C/wamp/www/wp-content/themes/magiccolortheme/index.php",
+		"/C/Users/Sean/Desktop/colorspiller.html",
+		"/C/wamp/www/wp-content/themes/surreilytheme/comments.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/header.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/footer.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/grid.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/content-page.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/content.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/style.css",
+		"/C/wamp/www/wp-content/themes/surreilytheme/page.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/index.php",
+		"/C/Users/Sean/Downloads/datavirtualization/DataVirtualization/VirtualizingCollection.cs",
+		"/C/Users/Sean/Documents/C# Docs/Commands.html",
+		"/C/Users/Sean/Desktop/testdata.xml",
+		"/C/Users/Sean/Documents/Visual Studio 2015/Projects/OffshoreCalCal/OffshoreCalCal/bin/Release/OffshoreCalCal.pdb",
+		"/C/Users/Sean/Desktop/offshorecalcal.xml",
+		"/C/Users/Sean/Downloads/datavirtualization/DataVirtualization/IItemsProvider.cs",
+		"/C/Users/Sean/Documents/Python/OffshoreCalcDataConversion/init.txt",
+		"/C/wamp/www/wp-content/themes/surreilytheme/category-projects.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/single.php",
+		"/C/wamp/www/wp-admin/customize.php",
+		"/C/wamp/www/wp-content/themes/surreilytheme/bootstrap/css/bootstrap.css",
+		"/C/Users/Sean/Desktop/Printer Parts.txt",
+		"/C/Users/Sean/Desktop/Parts Per Component.txt",
+		"/C/Users/Sean/Desktop/Screws.txt",
+		"/C/Users/Sean/Desktop/PrinterParts",
+		"/C/Users/Sean/Desktop/Printer Parts",
+		"/C/Users/Sean/Desktop/Parts Per Component"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".modal('show');",
+			"',\n",
+			");\n",
+			"image",
+			"lines",
+			"			<",
+			");\n",
+			"string",
+			");\n",
+			"[];\n",
+			"));",
+			"normal",
+			";\n",
+			"4px",
+			";\n",
+			"?>;\n",
+			"%;",
+			":;",
+			".panel-main",
+			"hover",
+			"email",
+			"Email",
+			"email",
+			"9em",
+			"1em",
+			"panel-margin",
+			"small-side-padding",
+			"margin",
+			"gold",
+			"deep",
+			"Flat Washer",
+			"M3x16 ",
+			"M3x20",
+			"M3x16  ",
+			"M3 Nuts ",
+			"M3 Spring Washers  ",
+			"M3 Spring Washers",
+			"b6dc88",
+			"254300",
+			"87b451",
+			"81bd88",
+			"05450d",
+			"81bd88",
+			"87b451",
+			" .",
+			";\n",
+			"default",
+			"navbar-custom",
+			"7FB494",
+			";\n",
+			"519b5a",
+			"nav",
+			"519b5a",
+			";\n",
+			"}\n",
+			"navbar-default",
+			"panel-danger",
+			"panel-footer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 3344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 1207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1207,
+								1207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 3091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2753,
+								2753
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 154.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "inc/magiccolors.php",
+					"settings":
+					{
+						"buffer_size": 5491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5397,
+								5397
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1958.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "inc/wp_bootstrap_navwalker.php",
+					"settings":
+					{
+						"buffer_size": 7311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2787,
+								2787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "api-savecolor.php",
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								618,
+								618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/mc_dropdowns.js",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 3066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2901,
+								2901
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/slider.css",
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Sean/Documents/Web Dev/ImageFiller/colorspiller.html",
+					"settings":
+					{
+						"buffer_size": 3061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								959,
+								958
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "js/magiccolormodal.js",
+					"settings":
+					{
+						"buffer_size": 2168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 5973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5059,
+								5059
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2086.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
